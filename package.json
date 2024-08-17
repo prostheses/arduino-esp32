@@ -1,0 +1,18 @@
+{
+  "name": "framework-arduinoespressif32",
+  "description": "Platformio Tasmota Arduino framework for the Espressif ESP32 series of SoCs",
+  "keywords": [
+    "framework",
+    "tasmota",
+    "arduino",
+    "espressif",
+    "esp32"
+  ],
+  "license": "LGPL-2.1-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tasmota/arduino-esp32"
+  },
+  "version": "3.0.4+sha.5686ca0",
+  "date": "2024-08-17"
+}

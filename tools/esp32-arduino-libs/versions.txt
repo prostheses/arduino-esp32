@@ -1,0 +1,9 @@
+lib-builder: v5.1_Arduino 5446b61
+esp-idf: 5686ca0
+arduino: main 1b08120
+tinyusb: master b8d3c0c
+espressif__esp-dsp: 1.5.1
+espressif__esp32-camera:
+espressif__esp_modem: 1.1.0
+espressif__mdns: 1.3.2
+joltwallet__littlefs: 1.14.8
